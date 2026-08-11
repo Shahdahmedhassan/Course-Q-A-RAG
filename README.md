@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30961470/README.md)
 # Course Q&A RAG System
 
 🔗 **Live App:** [ADD_YOUR_STREAMLIT_APP_LINK_HERE](https://course-qa-rag.streamlit.app)
