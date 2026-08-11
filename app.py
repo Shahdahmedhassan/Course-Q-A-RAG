@@ -19,7 +19,7 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
-MODEL_DIR = "./rag_model"  # change this if your model folder lives elsewhere
+MODEL_DIR = "."  # change this if your model folder lives elsewhere
 
 
 # ----------------------------------------------------------------------------
