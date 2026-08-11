@@ -1,0 +1,10 @@
+{
+  "embedding_model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "generation_model_name": "google/flan-t5-base",
+  "num_chunks": 17,
+  "courses": [
+    "course1_python",
+    "course2_datascience",
+    "course3_ml"
+  ]
+}
