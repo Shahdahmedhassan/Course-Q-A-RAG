@@ -1,6 +1,6 @@
 # Course Q&A RAG System
 
-🔗 **Live App:** [ADD_YOUR_STREAMLIT_APP_LINK_HERE](https://course-qa-rag.streamlit.app)
+🔗 **Live App:** [(https://course-qa-rag.streamlit.app](https://course-q-a-rag-zmvpvntiqpydq3rysdutj5.streamlit.app/))
 
 A Retrieval-Augmented Generation (RAG) system that answers student questions using course materials
 from multiple courses and file formats (PDF, CSV, DOCX, TXT), with source attribution for every answer.
